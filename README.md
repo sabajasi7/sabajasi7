@@ -1,4 +1,4 @@
-# Hlw 👋 I'm Saba Islam Jasi
+# Hello👋 I'm Saba Islam Jasi
 
 🎓 CSE Graduate | United International University (UIU)  
 💻 Software Testing • QA • AI/ML • Data Analytics  
